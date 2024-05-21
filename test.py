@@ -1,1 +1,1 @@
-print("To jest test dla połączenia zdalnego")
+print("To jest test dla połączenia zdalnego z nowego branch")
